@@ -2,8 +2,6 @@
 
 I'm Grish, a self-taughted Software Engineer.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=grish-ayvazy&orgs=hoory-com)
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grish-ayvazyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
