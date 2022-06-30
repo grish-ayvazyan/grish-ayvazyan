@@ -2,7 +2,7 @@
 
 I'm Grish, a self-taughted Software Engineer.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=grish-ayvazyan&theme=github_dark&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=grish-ayvazyan&theme=blue-green&layout=compact)
 
 <!--
 **grish-ayvazyan/grish-ayvazyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
