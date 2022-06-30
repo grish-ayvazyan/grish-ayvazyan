@@ -2,7 +2,7 @@
 
 I'm Grish, a self-taughted Software Engineer.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)]
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grish-ayvazyan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
